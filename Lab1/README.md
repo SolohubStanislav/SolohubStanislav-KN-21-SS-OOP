@@ -35,6 +35,7 @@ git commit -m "Add lab1"
 
 Підключено віддалений репозиторій:
 git remote add origin https://github.com/SolohubStanislav/SolohubStanislav-KN-21-SS-OOP.git
+
 git push -u origin main
 
 ## Висновок
